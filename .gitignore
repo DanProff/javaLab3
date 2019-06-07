@@ -1,3 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
 # Compiled class file
 *.class
 
@@ -21,3 +23,20 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.idea/compiler.xml
+.idea/dictionaries/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
+src/main/resources/
+src/test/java/ua/lviv/iot/transport/manager/TransportManagerImplTest.java
+src/test/java/ua/lviv/iot/transport/models/
+target/findbugsXml.xml
+target/generated-sources/
+target/generated-test-sources/
+target/maven-archiver/
+target/maven-status/
+target/site/findbugs.html
+target/test-classes/
